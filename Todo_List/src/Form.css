@@ -1,0 +1,48 @@
+.todo{
+    background-color: rgb(125, 168, 168);
+    margin-top: 100px;
+    margin-left:400px ;
+    margin-right:400px ;
+    border-radius: 10px;
+    
+
+
+}
+
+body{
+    position:relative;
+}
+.head{
+    color: rgb(21, 44, 44);
+}
+
+.input{
+    
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    height: fit-content ;
+}
+
+.label{
+     margin-right: auto;
+    margin-left: auto;
+}
+
+.create{
+    background-color: rgb(201, 68, 90);
+    border-radius: 10px;
+    margin: 4px;
+    color: white;
+}
+
+.save{
+    
+    background-color: rgb(51, 121, 63);
+    border-radius: 10px;
+    margin: 4px;
+    color: white;
+   
+}
+

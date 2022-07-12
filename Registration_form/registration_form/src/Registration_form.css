@@ -1,0 +1,51 @@
+body{
+  background-color:white;
+  font-family: Roboto,sans-serif;
+}
+
+h1{
+  text-align: center;
+  padding-top: 25px;
+  
+
+}
+.Container{
+  width: 360px;
+  height: 550px;
+  margin: auto;
+  background-color: rgb(21, 85, 122);
+  margin-top: 60px;
+  border-radius: 25px;
+}
+
+form{
+  width: 300px;
+  margin-left: 20px;
+}
+
+form label{
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+  
+}
+
+form input{
+  width: 100%;
+  padding:4px;
+ 
+
+}
+
+.Submit{
+  width: 300px;
+  height: 35px;
+  margin-top: 20px;
+  font-size: 18px;
+  background-color: white;
+  
+}
+
+p{
+  color: red;
+}
